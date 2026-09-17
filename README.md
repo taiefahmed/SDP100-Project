@@ -1,4 +1,4 @@
-# software-development-project
+# software_development_project
 This program is a simple Student Management System written in C++. It helps manage student information and supports user login for security.
 1.User Registration and Login:
  Users can create an account with a username and password.
